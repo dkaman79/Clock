@@ -1,1 +1,3 @@
 # Clock
+This is the 2nd project in 30 vanilla JS projects......
+A simple analog clock with real-time data is shown using only javascript.
